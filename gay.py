@@ -1,0 +1,1 @@
+print("dilasha thakuri from Sec B BscIT l3  is a good gay")
