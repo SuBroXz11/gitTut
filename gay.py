@@ -1,1 +1,1 @@
-print("dilasha thakuri from Sec B BscIT l3  is a good gay")
+print("dilasha thakuri from Sec B or Sec A BscIT l3  is a good gay")
